@@ -22,7 +22,7 @@
   },
   "main": "./lib/recurly.js",
   "dependencies": {
-    "js2xml": "Growmies/js2xml",
+    "js2xml": "philjackson/js2xml#master",
     "lodash": "4.17.10",
     "xml2js": "*"
   },
