@@ -1,6 +1,6 @@
 {
-  "name": "node-recurly",
-  "description": "Library for accessing the api for the Recurly recurring billing service.",
+  "name": "@grow/node-recurly",
+  "description": "Forked!!! Library for accessing the api for the Recurly recurring billing service.",
   "keywords": [
     "recurly",
     "e-commerce",
